@@ -1,0 +1,4 @@
+app.log
+secretes.json
+
+# *.log  that means all file wich contain .log will be ignored.
